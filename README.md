@@ -1,5 +1,4 @@
-# Vem-r-jag
-Repo about me.
+# Repo about me.
 
 Vem är du? 
 
